@@ -9,7 +9,7 @@
     </parent>
 
     <groupId>com.zirfee</groupId>
-    <artifactId>eurekaserver2</artifactId>
+    <artifactId>eureka_server2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>eureka_server2</name>
